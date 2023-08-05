@@ -5,3 +5,6 @@ export const FETCH_POSTS_FAILURE = 'FETCH_POSTS_FAILURE';
 
 // action for details page
 export const ADD_CARD_TO_DETAILS = 'ADD_CARD_TO_DETAILS';
+
+// action for info page
+export const ADD_INFO_ID = 'ADD_INFO_ID';
